@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "BREAK BLOCK",
+"productVersion": "1.0",
+"dataUrl": "TEMP.data.unityweb",
+"asmCodeUrl": "TEMP.asm.code.unityweb",
+"asmMemoryUrl": "TEMP.asm.memory.unityweb",
+"asmFrameworkUrl": "TEMP.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}

@@ -1,6 +1,7 @@
 # BreakBlock
 
 更新履歴
+
 2020-05-XX v0.0.1
 サンプル作成
 
@@ -21,7 +22,9 @@ WebGL版
 BGM、SE追加
 
 参考リンク
-https://qiita.com/nmxi/items/7950fb12ef925efa276d
+
+今日からはじめるUnity
+ttps://qiita.com/nmxi/items/7950fb12ef925efa276d
 
 画像元
 BEIZ images

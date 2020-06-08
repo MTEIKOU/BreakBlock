@@ -19,6 +19,11 @@
 BGM、SE追加
 リセットボタン修正
 
+2020-06-08 v0.0.4
+コンボレート倍率を0.2→0.1に再調整
+ブロック数を6x5→6x6に増加
+apk版爆発追加
+
 
 WebGL版
 爆発廃止（軽量化）
@@ -31,6 +36,6 @@ ttps://qiita.com/nmxi/items/7950fb12ef925efa276d
 
 画像元
 BEIZ images
-https://www.beiz.jp/
+ttps://www.beiz.jp/
 ぱくたそ
-https://www.pakutaso.com/userpolicy.html
+ttps://www.pakutaso.com/userpolicy.html

@@ -24,6 +24,8 @@ BGM、SE追加
 ブロック数を6x5→6x6に増加
 apk版爆発追加
 
+2020-07-01 v0.0.5
+BallスクリプトをUpdate→FixedUpdateに変更
 
 WebGL版
 爆発廃止（軽量化）
